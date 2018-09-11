@@ -1,5 +1,5 @@
 # Arquitetura
-## Inicialização do tabuleiro
+## Verificação da qualidade das jogadas
 * As funções relacionadas ao gerenciamento das casas do jogo da velha ficarão
 no módulo **jogovelha.py**.
 * O estado de cada casa do jogo será representada por uma string: "." para casa
