@@ -1,6 +1,6 @@
 # Requisitos
 
-## Estados e inicialização do tabuleiro
+## Estados e Verificação da validade das jogadas
 
 * O sistema deverá manter o estado de cada uma das casas de
 um jogo da velha.
